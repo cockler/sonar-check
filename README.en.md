@@ -9,8 +9,8 @@ Use Maven's sonar plugin to check the code library and upload the results to the
 #### Instructions
 
 1.  Enter the src directory
-2.  Modify the information in the file named config
-First line: Address of the sonarQube server
+2.  Modify the information in the file named config  
+First line: Address of the sonarQube server  
 Line 2: User token for the sonarQube server
 3.  Open a tool that supports shell commands in the current directory
 4.  Enter the execution command (either a or b)  
